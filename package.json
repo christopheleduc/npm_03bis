@@ -1,0 +1,20 @@
+{
+  "name": "03bis",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm --version"
+  },
+  "author": "Christophe LEDUC",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^6.1.0",
+    "imagemin-pngquant": "^7.0.0"
+  },
+  "scripts": {
+    "com": "node script.js"
+  }
+}
+
+
